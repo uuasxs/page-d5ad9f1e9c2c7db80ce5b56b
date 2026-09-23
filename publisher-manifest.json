@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "041f0d72f7a68268529dbcf1",
+  "owner": "uuasxs",
+  "repo": "page-d5ad9f1e9c2c7db80ce5b56b",
+  "title": "绝影飞驰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d5ad9f1e9c2c7db80ce5b56b",
+      "a": "绝影飞驰",
+      "b": "机场官网线路发布页",
+      "entity": "绝影飞驰",
+      "brand": "绝影飞驰",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "10c19d67d2c392f6e03027c0b4232fd02076f5d3d618b03b8a344f2d0a1ddf44",
+      "content": {
+        "primary_entity": "绝影飞驰",
+        "keyword1": "绝影飞驰",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，绝影飞驰是一款面向海外网络访问场景的加速服务，基础版每月 ¥15 提供 100GB 流量与 3 台设备在线，旗舰版每月 ¥35 提供 300GB 流量、5 台设备在线与 IPLC 专线游戏加速优化，团队版每月 ¥85 提供 1000GB 流量与 20 台设备在线。可按设备数量、月流量与专线需求挑选合适套餐，并依客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活匹配",
+          "AI_HERO_INTRO": "绝影飞驰提供基础版、旗舰版和团队版三档加速套餐，涵盖每月 100GB 至 1000GB 流量与 3 台至 20 台设备在线，旗舰版针对游戏加速优化 IPLC 专线，团队版支持企业定制路由与专属客户经理。",
+          "AI_VISUAL_TITLE": "绝影飞驰套餐对比",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付享 ¥150 起",
+          "AI_HIGHLIGHT_3": "最多 20 台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路偏好出发，快速定位适合的绝影飞驰套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用终端数量选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 和 1000GB 三档流量，轻度浏览选基础版，高频使用选旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "按周期灵活订阅",
+          "AI_FEATURE_TEXT_3": "月付与年付两种周期，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更合适。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "绝影飞驰订阅可导入路由器、电脑和手机客户端，不同平台请按对应文档配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 获 100GB 流量与 3 台设备，旗舰版 ¥35/月 获 300GB 流量、5 台设备与 IPLC 专线，团队版 ¥85/月 获 1000GB 流量与 20 台设备。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择服务到导入订阅，按设备类型完成配置即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中选定绝影飞驰套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用系统、设备数量及套餐支持的节点类型，选择匹配的客户端版本。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依客户端文档获取订阅链接并导入配置，完成后即可按套餐规则使用网络。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "绝影飞驰基础版支持几台设备在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机、平板加电脑的轻度组合。如果常用终端更多，可以升级到旗舰版获得 5 台设备上限。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏与实时交互场景，同时包含 300GB 月流量与 5 台设备在线。",
+          "AI_FAQ_QUESTION_3": "年付套餐比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，均比按月支付十二个月更划算，长期使用者可以优先考虑年付。",
+          "AI_FAQ_QUESTION_4": "绝影飞驰订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端文档中获取对应平台的订阅链接，复制到客户端后更新配置即可。路由器、电脑与手机步骤略有不同，按各自文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版能否用于多人协作环境？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，适合小团队或家庭多终端共用。",
+          "AI_CLOSING_TITLE": "按需匹配套餐",
+          "AI_CLOSING_TEXT": "确认设备数量与月流量后，选择基础版、旗舰版或团队版并依文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alcat.cn",
+    "host": "alcat.cn"
+  },
+  "file_hashes": {
+    "index.html": "7a40bf1c7506aaf645ed18571e170d809aea1d13c90a5f8216973e2c46e60c71",
+    "sitemap.xml": "13557d18f98ad221e71e009d2f457977d50790cb53df7d3a29461af4592a9e92",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e2b1b1b2788c448d5f713690e58a03b871b9e9356009dc9bc2ba5f5abcb9a58d",
+    "robots.txt": "b8d7bfa0c06f242de647846decfaa6e00aafcaa2a277842950d7dd64bef956d3",
+    "dd379460107b681eebd5d0c592a202ad.txt": "ce2933c406d73b5b1b1995bd0d40519b87aea69a36f703735591fe8400f67414"
+  },
+  "revision": "73648b86603fca7469fcf395311dc9066bf3e5b64f0d0c997d74e1cb6806074c"
+}
